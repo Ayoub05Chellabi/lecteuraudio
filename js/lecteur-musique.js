@@ -17,7 +17,7 @@ class LecteurMusique extends HTMLElement {
             <button class="speed-up">🐇</button>
         </div>
         <webaudio-knob
-            src="knob.png" 
+            src="/assets/images/knob.png" 
             value="0.5" 
             min="0" 
             max="1" 
